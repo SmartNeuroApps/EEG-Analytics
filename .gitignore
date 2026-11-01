@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# generated at run time
+clean_data_*/
+Clean_Eeg_using_ICA/
+attention_results/
+cognitive_load_results/
+all_tasks_results/
+model_accuracy_summary.*
+aggregate_correlation_output/
+window_size_explainer_output/
